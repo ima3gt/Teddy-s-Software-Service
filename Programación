@@ -1,0 +1,90 @@
+!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-UA-compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teddy's Software Service</title>
+    <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+
+<header class="header">
+
+<div class="menu container">
+
+<a href="a" class="logo"></a>
+
+<input type="checkbox" id="menu"/>
+<label for="menu"><img src="imahegens de pr/ima.jpg" class="menu-icono" alt=""></label>
+<nav class="navbar"> 
+<ul> 
+       <li><a href="a">Inicio</a></li> 
+
+       <li><a href="a">servicios</a></li>
+       <li><a href="a">productos</a></li>
+       <li><a href="a">contacto</a></li>
+</ul>
+</nav>
+
+<div> 
+    <ul>
+        <li class="submenu">
+         <img src="imahegens de pr/puta.jpg" class="submenu-icono">
+        <div id="carrito">
+        <table id="lista-carrito">
+            <thead> 
+                <tr>
+             <th>imagen</th>
+             <th>nombre</th>
+             <th>precio</th>
+            <th></th>
+                </tr>
+            </thead>
+            <tbody></tbody> 
+        </table>
+        <a href="a" id="vaciar-carrito" class="btn-3"> vaciar-carrito</a>
+        </div>
+    </ul>
+</div>
+<div class="header-content container"> 
+<div class="swiper-wrapper">
+
+    <div class="swiper-slaide">
+
+    </div>
+<div class="swiper-slaide">
+    
+<div class="header-info">
+    <div class="header-txt">
+        <h1>Software de aplicacion </h1>
+        <div class="precio">
+         <p class=" precio1">$200</p> 
+         <p class=" precio2">$123</p> 
+            
+        </div>
+        <a href="a" class="btn-1">informacion</a>
+    </div>  
+
+</div>
+<div class="header.img">
+<img src="imahegens de pr/Linux.webp" alt="">
+</div>
+</div>
+<div class="swiper-slaide">
+    <div>
+       <div class="swiper-slaide">
+    </div>
+
+</header>
+   
+
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+   <script src="script.js"></script>
+    
+</body>
+</html>
